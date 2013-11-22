@@ -15,7 +15,7 @@
 #include <unistd.h>
 #include <fcntl.h>
 #include <errno.h>    
-#include "fft.h"
+//#include "fft.h"
 #include <fftw3.h>
 
 /********************** Global Variable ***************************************/
